@@ -19,7 +19,7 @@
 }
 
 .header-menu a {
-  display: inline-block;
+    display: inline-block;
     padding: 16px 0px;
     position: relative;
 }
@@ -35,7 +35,8 @@
     position: absolute;
 }
 
-.header-menu a:hover:after, .header-menu a.ativo::after {
+.header-menu a:hover:after,
+.header-menu a.ativo::after {
     width: 100%;
 }
 
@@ -49,8 +50,8 @@
         border-radius: 4px;
     }
     .header-menu a:hover {
-      background-color: var(--cor-10);
-  }
+        background-color: var(--cor-10);
+    }
     .header a:after {
         display: none;
     }
