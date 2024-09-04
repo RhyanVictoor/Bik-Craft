@@ -1,28 +1,29 @@
-**BikCraft**
+# Bikcraft
 
-Bem-vindo ao repositório do BikCraft!
-Este projeto é uma demonstração dos meus conhecimentos em JavaScript, desenvolvimento web e UX & UI Design.
+Este é o repositório do BikCraft!  Este projeto é uma demonstração dos meus conhecimentos em JavaScript, HTML, CSS e UX & UI Design.
 
------------------------------------------------------------------------------------------------
+## Funcionalidades
 
-**Funcionalidades:**
+- Responsividade
+- Animações.
+- Paginas funcionais.
 
-Responsividade
+## Como Usar
 
-Animações 
+1. Abra o arquivo `index.html` em seu navegador da web.
 
-Paginas funcionais
+## Pré-requisitos
 
------------------------------------------------------------------------------------------------
+Não há pré-requisitos específicos para utilizar este gerador de senha.
 
-**Tecnologias Utilizadas:**
+## Contribuindo
 
-HTML: Estruturação da página.
+Este é um projeto de código aberto e contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, relatar problemas ou enviar solicitações de pull.
 
-CSS: Estilização e layout.
+## Tecnologias Utilizadas
 
-JavaScript: Lógica, interatividade e APIS.
-
-https://bik-craft-ebon.vercel.app/
-
+- HTML: Estruturação da página.
+- CSS: Estilização e layout.
+- JavaScript: Lógica e interatividade.
+  
 ![foto](https://github.com/RhyanVictoor/Bik-Craft/blob/main/img/Captura%20de%20tela%202024-08-05%20191004.png?raw=true)
