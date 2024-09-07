@@ -14,7 +14,7 @@ Este é o repositório do BikCraft!  Este projeto é uma demonstração dos meus
 
 ## Pré-requisitos
 
-Não há pré-requisitos específicos para utilizar este gerador de senha.
+Não há pré-requisitos específicos para utilizar.
 
 ## Contribuindo
 
